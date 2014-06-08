@@ -1,0 +1,58 @@
+body { 
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	margin:0;
+}
+h1 { font-size: 36px; }
+
+h2 { font-size: 29x;}
+
+h3 { font-size;}
+
+a {
+	color: #fff;
+	text-decoration: none;
+}
+
+nav li {
+  text-decoration:none;
+  margin-right:20px;
+  display:inline;
+}
+
+#main {
+	background-color: blue;
+	color:#fff;
+	padding:50px;
+}
+
+#divider {
+	background-color:navy;
+	color:#fff;
+	padding: 10px 50px 10px 50px;
+	text-align: center;
+}
+
+#facts {
+	padding:50px;
+}
+
+
+#favorites {
+	padding:50px;
+	background-color:light-gray;
+	background-color:#F0F0F0 ;
+
+
+}
+
+#portforlio {
+	padding:50px;
+}
+
+.box {
+	height: 250px;
+	width: 250px;
+	background-color: red;
+	border: 1px solid black;
+}
+
